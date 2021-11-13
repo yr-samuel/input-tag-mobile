@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/input-tag-mobile/static/js/main.1009549e.chunk.js",
+    "main.js.map": "/input-tag-mobile/static/js/main.1009549e.chunk.js.map",
+    "runtime-main.js": "/input-tag-mobile/static/js/runtime-main.2e00a325.js",
+    "runtime-main.js.map": "/input-tag-mobile/static/js/runtime-main.2e00a325.js.map",
+    "static/js/2.283d8964.chunk.js": "/input-tag-mobile/static/js/2.283d8964.chunk.js",
+    "static/js/2.283d8964.chunk.js.map": "/input-tag-mobile/static/js/2.283d8964.chunk.js.map",
+    "index.html": "/input-tag-mobile/index.html",
+    "static/js/2.283d8964.chunk.js.LICENSE.txt": "/input-tag-mobile/static/js/2.283d8964.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e00a325.js",
+    "static/js/2.283d8964.chunk.js",
+    "static/js/main.1009549e.chunk.js"
+  ]
+}
